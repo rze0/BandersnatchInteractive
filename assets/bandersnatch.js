@@ -47,7 +47,7 @@ bandersnatch={
                     "1S"
                   ],
                   "startTimeMs": 11668640,
-                  "description": "Which Record?",
+                  "description": "Какая запись?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/827e6fda24cc153e2d6ca877dd915c4429c60c3f5b5e86549d6dfb5f5e69d444.webp)",
@@ -61,7 +61,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 12184920,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/4acd9e0383fae1809e4a314bd9dd1e1475b573526495ed2f95d366207f4fa6da.webp)",
@@ -75,7 +75,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 5156400,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/4acd9e0383fae1809e4a314bd9dd1e1475b573526495ed2f95d366207f4fa6da.webp)",
@@ -145,7 +145,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 17890600,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/35fb1bf61ce09e5cc829f0c23d4ec6d990971c60ba56c3250018ec79fbaaf42a.webp)",
@@ -173,7 +173,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 17845840,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/35fb1bf61ce09e5cc829f0c23d4ec6d990971c60ba56c3250018ec79fbaaf42a.webp)",
@@ -187,7 +187,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 17797360,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/35fb1bf61ce09e5cc829f0c23d4ec6d990971c60ba56c3250018ec79fbaaf42a.webp)",
@@ -209,7 +209,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 17745560,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/35fb1bf61ce09e5cc829f0c23d4ec6d990971c60ba56c3250018ec79fbaaf42a.webp)",
@@ -377,7 +377,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 17688640,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/35fb1bf61ce09e5cc829f0c23d4ec6d990971c60ba56c3250018ec79fbaaf42a.webp)",
@@ -391,7 +391,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 17647040,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/35fb1bf61ce09e5cc829f0c23d4ec6d990971c60ba56c3250018ec79fbaaf42a.webp)",
@@ -503,7 +503,7 @@ bandersnatch={
                     "1S"
                   ],
                   "startTimeMs": 1202240,
-                  "description": "Which Record?",
+                  "description": "Какая запись?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/42f6bc2013a2be48a4f5752ae188ceb481953aa09e403e8f11ee833afd464dfb.webp)",
@@ -531,7 +531,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 10862840,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/4acd9e0383fae1809e4a314bd9dd1e1475b573526495ed2f95d366207f4fa6da.webp)",
@@ -573,7 +573,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 11261520,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/4acd9e0383fae1809e4a314bd9dd1e1475b573526495ed2f95d366207f4fa6da.webp)",
@@ -587,7 +587,7 @@ bandersnatch={
                     "5G"
                   ],
                   "startTimeMs": 3661760,
-                  "description": "Kill Dad?",
+                  "description": "УБЕЙ ОТЦА?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/68f55804132db8617e2014e1b2c98b355f1c5b2319995ee0c018c83e61e8e774.webp)",
@@ -629,7 +629,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 13023200,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/838ce2edb76211ed99fdbe2b40b44075a8cc6a04606f06b782bd61428b624a0e.webp)",
@@ -657,7 +657,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 13055160,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/838ce2edb76211ed99fdbe2b40b44075a8cc6a04606f06b782bd61428b624a0e.webp)",
@@ -671,7 +671,7 @@ bandersnatch={
                     "2GA"
                   ],
                   "startTimeMs": 1005600,
-                  "description": "Talk About Mum?",
+                  "description": "ПОГОВОРИ О МАМЕ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/d504ec6bdafca15b0abe9c79c5764697e883538de1614d6efb1802b367550f60.webp)",
@@ -895,7 +895,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 10511320,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/4acd9e0383fae1809e4a314bd9dd1e1475b573526495ed2f95d366207f4fa6da.webp)",
@@ -909,7 +909,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 10362160,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/4acd9e0383fae1809e4a314bd9dd1e1475b573526495ed2f95d366207f4fa6da.webp)",
@@ -923,7 +923,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 10714920,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/4acd9e0383fae1809e4a314bd9dd1e1475b573526495ed2f95d366207f4fa6da.webp)",
@@ -937,7 +937,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 10613120,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/4acd9e0383fae1809e4a314bd9dd1e1475b573526495ed2f95d366207f4fa6da.webp)",
@@ -979,7 +979,7 @@ bandersnatch={
                     "7D"
                   ],
                   "startTimeMs": 2476480,
-                  "description": "Tell Him More",
+                  "description": "РАССКАЗАТЬ ЕМУ БОЛЬШЕ",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/1e730ad47bbf179d7424deef66f7e75596b61394aa80d1b9580fe96c10e2e3f8.webp)",
@@ -993,7 +993,7 @@ bandersnatch={
                     "7B2"
                   ],
                   "startTimeMs": 2451840,
-                  "description": "Try To Explain",
+                  "description": "ПОПЫТАТЬСЯ ОБЪЯСНИТЬ",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/9e38c0e52276a794dc2ece9a9d67a7c1bf296c7ded78fa4f788bfacd1da992ca.webp)",
@@ -1035,7 +1035,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 11955040,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/4acd9e0383fae1809e4a314bd9dd1e1475b573526495ed2f95d366207f4fa6da.webp)",
@@ -1343,7 +1343,7 @@ bandersnatch={
                     "2GA"
                   ],
                   "startTimeMs": 6207960,
-                  "description": "Talk About Mum?",
+                  "description": "ПОГОВОРИ О МАМЕ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/d504ec6bdafca15b0abe9c79c5764697e883538de1614d6efb1802b367550f60.webp)",
@@ -1371,7 +1371,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 18134840,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/35fb1bf61ce09e5cc829f0c23d4ec6d990971c60ba56c3250018ec79fbaaf42a.webp)",
@@ -1399,7 +1399,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 18086360,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/35fb1bf61ce09e5cc829f0c23d4ec6d990971c60ba56c3250018ec79fbaaf42a.webp)",
@@ -1427,7 +1427,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 18034560,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/35fb1bf61ce09e5cc829f0c23d4ec6d990971c60ba56c3250018ec79fbaaf42a.webp)",
@@ -1441,7 +1441,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 17977640,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/35fb1bf61ce09e5cc829f0c23d4ec6d990971c60ba56c3250018ec79fbaaf42a.webp)",
@@ -1469,7 +1469,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 18179600,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/35fb1bf61ce09e5cc829f0c23d4ec6d990971c60ba56c3250018ec79fbaaf42a.webp)",
@@ -1483,7 +1483,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 17936040,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/35fb1bf61ce09e5cc829f0c23d4ec6d990971c60ba56c3250018ec79fbaaf42a.webp)",
@@ -1553,7 +1553,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 2421640,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/838ce2edb76211ed99fdbe2b40b44075a8cc6a04606f06b782bd61428b624a0e.webp)",
@@ -1567,7 +1567,7 @@ bandersnatch={
                     "2GA"
                   ],
                   "startTimeMs": 15561520,
-                  "description": "Talk About Mum?",
+                  "description": "ПОГОВОРИ О МАМЕ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/d504ec6bdafca15b0abe9c79c5764697e883538de1614d6efb1802b367550f60.webp)",
@@ -1665,7 +1665,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 7331120,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/838ce2edb76211ed99fdbe2b40b44075a8cc6a04606f06b782bd61428b624a0e.webp)",
@@ -1735,7 +1735,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 3609880,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/4acd9e0383fae1809e4a314bd9dd1e1475b573526495ed2f95d366207f4fa6da.webp)",
@@ -1833,7 +1833,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 11346040,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/4acd9e0383fae1809e4a314bd9dd1e1475b573526495ed2f95d366207f4fa6da.webp)",
@@ -1861,7 +1861,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 10212960,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/4acd9e0383fae1809e4a314bd9dd1e1475b573526495ed2f95d366207f4fa6da.webp)",
@@ -1889,7 +1889,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 12234640,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/4acd9e0383fae1809e4a314bd9dd1e1475b573526495ed2f95d366207f4fa6da.webp)",
@@ -1917,7 +1917,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 11906640,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/4acd9e0383fae1809e4a314bd9dd1e1475b573526495ed2f95d366207f4fa6da.webp)",
@@ -2001,7 +2001,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 12276840,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/838ce2edb76211ed99fdbe2b40b44075a8cc6a04606f06b782bd61428b624a0e.webp)",
@@ -2015,7 +2015,7 @@ bandersnatch={
                     "nsg-WhiteBearChoice"
                   ],
                   "startTimeMs": 11113600,
-                  "description": "Who's There?",
+                  "description": "КТО ЗДЕСЬ?",
                   "image": {
                     "styles": {
                       "backgroundImage": "url(https://assets.nflxext.com/ffe/oui/interactive/bs/playercontrols/web/2018125/838ce2edb76211ed99fdbe2b40b44075a8cc6a04606f06b782bd61428b624a0e.webp)",
@@ -3949,7 +3949,7 @@ bandersnatch={
                   "id": "1S",
                   "segmentId": "1S",
                   "startTimeMs": 11691600,
-                  "text": "THE BERMUDA TRIANGLE"
+                  "text": "БЕРМУДСКИЙ ТРЕУГОЛЬНИК"
                 }
               ],
               "trackingInfo": {
@@ -3990,7 +3990,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "THE NETFLIX 'N' LOGO"
+                  "text": "ЛОГОТИП NETFLIX 'N'"
                 },
                 {
                   "id": "nsg-WhiteBearChoice",
@@ -4003,7 +4003,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -4056,7 +4056,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -4113,13 +4113,13 @@ bandersnatch={
                     "id": "R5",
                     "segmentId": "R5",
                     "startTimeMs": 16488240,
-                    "text": "VISIT DR HAYNES"
+                    "text": "ПОСЕТИ Д-РА ХЕЙНСА"
                   },
                   {
                     "id": "3Nx",
                     "segmentId": "3Nx",
                     "startTimeMs": 3359440,
-                    "text": "GO BACK"
+                    "text": "ВЕРНИСЬ"
                   }
                 ],
                 "trackingInfo": {
@@ -4154,7 +4154,7 @@ bandersnatch={
                   "id": "R6",
                   "segmentId": "R6",
                   "startTimeMs": 4901120,
-                  "text": "'PROGRAM & CONTROL'",
+                  "text": "ПРОГРАММА И КОНТРОЛЬ",
                   "impressionData": {
                     "type": "userState",
                     "data": {}
@@ -4164,7 +4164,7 @@ bandersnatch={
                   "id": "5H",
                   "segmentId": "5H",
                   "startTimeMs": 3684720,
-                  "text": "KILL DAD",
+                  "text": "УБЕЙ ОТЦА",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -4205,7 +4205,7 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-WhoThereChoice",
                   "sg": "WhoThereChoice",
-                  "text": "WHO'S THERE?",
+                  "text": "КТО ЗДЕСЬ?",
                   "impressionData": {
                     "type": "userState",
                     "data": {}
@@ -4215,7 +4215,7 @@ bandersnatch={
                   "id": "5H",
                   "segmentId": "5H",
                   "startTimeMs": 3684720,
-                  "text": "KILL DAD",
+                  "text": "УБЕЙ ОТЦА",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -4283,7 +4283,7 @@ bandersnatch={
                   "trackingInfo": {
                     "segmentId": "No"
                   },
-                  "text": "NO"
+                  "text": "НЕТ"
                 }],
                 "trackingInfo": {
                   "viewableId": 80988062,
@@ -4316,7 +4316,7 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-ThrowThemChoice",
                   "sg": "ThrowThemChoice",
-                  "text": "THROW THEM AWAY",
+                  "text": "ВЫКИНЬ ИХ",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -4329,7 +4329,7 @@ bandersnatch={
                 {
                   "id": "nsg-FlushThemChoice3X",
                   "sg": "FlushThemChoice3X",
-                  "text": "FLUSH THEM",
+                  "text": "СМОЙ",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -4396,7 +4396,7 @@ bandersnatch={
                   "trackingInfo": {
                     "segmentId": "No"
                   },
-                  "text": "NO"
+                  "text": "НЕТ"
                 }],
                 "trackingInfo": {
                   "viewableId": 80988062,
@@ -4429,7 +4429,7 @@ bandersnatch={
                     "id": "3B",
                     "segmentId": "3B",
                     "startTimeMs": 1415040,
-                    "text": "THROW TEA OVER COMPUTER",
+                    "text": "ВЫЛЕЙ ЧАЙ НА КОМПЬЮТЕР",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -4444,7 +4444,7 @@ bandersnatch={
                     "id": "3C",
                     "segmentId": "3C",
                     "startTimeMs": 1486960,
-                    "text": "SHOUT AT DAD",
+                    "text": "НАОРИ НА ОТЦА",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -4494,7 +4494,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "THE NETFLIX 'N' LOGO"
+                  "text": "ЛОГОТИП NETFLIX 'N'"
                 },
                 {
                   "id": "nsg-WhiteBearChoice",
@@ -4507,7 +4507,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -4540,7 +4540,7 @@ bandersnatch={
                   "id": "3Y",
                   "segmentId": "3Y",
                   "startTimeMs": 2109600,
-                  "text": "DESTROY COMPUTER",
+                  "text": "РАЗБЕЙ КОМПЬЮТЕР",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -4554,7 +4554,7 @@ bandersnatch={
                   "id": "3Z",
                   "segmentId": "3Z",
                   "startTimeMs": 2193720,
-                  "text": "HIT DESK"
+                  "text": "УДАРЬ ПО СТОЛУ"
                 }
               ],
               "trackingInfo": {
@@ -4588,13 +4588,13 @@ bandersnatch={
                   "id": "R3",
                   "segmentId": "R3",
                   "startTimeMs": 16142560,
-                  "text": "TALK ABOUT MUM"
+                  "text": "ПОГОВОРИ О МАМЕ"
                 },
                 {
                   "id": "0cr1",
                   "segmentId": "0cr1",
                   "startTimeMs": 18595160,
-                  "text": "EXIT TO CREDITS",
+                  "text": "ВЫХОД В ТИТРЫ",
                   "optionType": "credits"
                 }
               ],
@@ -4634,7 +4634,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "THE NETFLIX 'N' LOGO"
+                  "text": "ЛОГОТИП NETFLIX 'N'"
                 },
                 {
                   "id": "nsg-WhiteBearChoice",
@@ -4647,7 +4647,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -4681,13 +4681,13 @@ bandersnatch={
                   "id": "R3",
                   "segmentId": "R3",
                   "startTimeMs": 16142560,
-                  "text": "TALK ABOUT MUM"
+                  "text": "ПОГОВОРИ О МАМЕ"
                 },
                 {
                   "id": "0cr1",
                   "segmentId": "0cr1",
                   "startTimeMs": 18595160,
-                  "text": "EXIT TO CREDITS",
+                  "text": "ВЫХОД В ТИТРЫ",
                   "optionType": "credits"
                 }
               ],
@@ -4751,7 +4751,7 @@ bandersnatch={
                         "backgroundRepeat": "no-repeat"
                       }
                     },
-                    "text": "THE NETFLIX 'N' LOGO"
+                    "text": "ЛОГОТИП NETFLIX 'N'"
                   },
                   {
                     "id": "nsg-WhiteBearChoice",
@@ -4764,7 +4764,7 @@ bandersnatch={
                         "backgroundRepeat": "no-repeat"
                       }
                     },
-                    "text": "'WHITE BEAR' GLYPH"
+                    "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                   }
                 ],
                 "trackingInfo": {
@@ -4800,7 +4800,7 @@ bandersnatch={
                     "trackingInfo": {
                       "segmentId": "Yeah"
                     },
-                    "text": "YES"
+                    "text": "ДА"
                   },
                   {
                     "id": "FYeah",
@@ -4808,7 +4808,7 @@ bandersnatch={
                     "trackingInfo": {
                       "segmentId": "FYeah"
                     },
-                    "text": "FUCK YEAH"
+                    "text": "ДА, БЛЯДЬ, ДА"
                   }
                 ],
                 "trackingInfo": {
@@ -4842,7 +4842,7 @@ bandersnatch={
                     "id": "7L",
                     "segmentId": "7L",
                     "startTimeMs": 2659280,
-                    "text": "LEAP THROUGH THE WINDOW",
+                    "text": "ВЫПРЫГНИ В ОКНО",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -4857,7 +4857,7 @@ bandersnatch={
                     "id": "7H",
                     "segmentId": "7H",
                     "startTimeMs": 6699080,
-                    "text": "FIGHT HER"
+                    "text": "БОРИСЬ С НЕЙ"
                   }
                 ],
                 "trackingInfo": {
@@ -4923,7 +4923,7 @@ bandersnatch={
                         "backgroundRepeat": "no-repeat"
                       }
                     },
-                    "text": "THE NETFLIX 'N' LOGO"
+                    "text": "ЛОГОТИП NETFLIX 'N'"
                   },
                   {
                     "id": "nsg-WhiteBearChoice",
@@ -4936,7 +4936,7 @@ bandersnatch={
                         "backgroundRepeat": "no-repeat"
                       }
                     },
-                    "text": "'WHITE BEAR' GLYPH"
+                    "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                   }
                 ],
                 "trackingInfo": {
@@ -4994,7 +4994,7 @@ bandersnatch={
                     "id": "3Y",
                     "segmentId": "3Y",
                     "startTimeMs": 2109600,
-                    "text": "DESTROY COMPUTER",
+                    "text": "РАЗБЕЙ КОМПЬЮТЕР",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -5008,7 +5008,7 @@ bandersnatch={
                     "id": "3Z",
                     "segmentId": "3Z",
                     "startTimeMs": 2193720,
-                    "text": "HIT DESK"
+                    "text": "УДАРЬ ПО СТОЛУ"
                   }
                 ],
                 "trackingInfo": {
@@ -5065,12 +5065,12 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-8AChoice",
                     "sg": "8AChoice",
-                    "text": "ACCEPT"
+                    "text": "СОГЛАСИСЬ"
                   },
                   {
                     "id": "nsg-1Qnw-1Qtt",
                     "sg": "1Qnw-1Qtt",
-                    "text": "REFUSE"
+                    "text": "ОТКАЖИ"
                   }
                 ],
                 "trackingInfo": {
@@ -5103,12 +5103,12 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-FamilyPhotoChoice",
                   "sg": "FamilyPhotoChoice",
-                  "text": "PICK UP FAMILY PHOTO"
+                  "text": "ЗАБЕРИ СЕМЕЙНУЮ ФОТОГРАФИЮ"
                 },
                 {
                   "id": "nsg-BookChoice",
                   "sg": "BookChoice",
-                  "text": "PICK UP BOOK"
+                  "text": "ЗАБЕРИ КНИГУ"
                 }
               ],
               "trackingInfo": {
@@ -5164,12 +5164,12 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-8AChoice",
                     "sg": "8AChoice",
-                    "text": "ACCEPT"
+                    "text": "СОГЛАСИСЬ"
                   },
                   {
                     "id": "nsg-1Qnw-1Qtt",
                     "sg": "1Qnw-1Qtt",
-                    "text": "REFUSE"
+                    "text": "ОТКАЖИ"
                   }
                 ],
                 "trackingInfo": {
@@ -5203,7 +5203,7 @@ bandersnatch={
                   "id": "3Y",
                   "segmentId": "3Y",
                   "startTimeMs": 2109600,
-                  "text": "DESTROY COMPUTER",
+                  "text": "РАЗБЕЙ КОМПЬЮТЕР",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -5217,7 +5217,7 @@ bandersnatch={
                   "id": "3Z",
                   "segmentId": "3Z",
                   "startTimeMs": 2193720,
-                  "text": "HIT DESK"
+                  "text": "УДАРЬ ПО СТОЛУ"
                 }
               ],
               "trackingInfo": {
@@ -5250,13 +5250,13 @@ bandersnatch={
                   "id": "5AH",
                   "segmentId": "5AH",
                   "startTimeMs": 13880680,
-                  "text": "LET HIM GO"
+                  "text": "ОТПУСТИ ЕГО"
                 },
                 {
                   "id": "5AJ",
                   "segmentId": "5AJ",
                   "startTimeMs": 14805520,
-                  "text": "KILL HIM"
+                  "text": "УБЕЙ ЕГО"
                 }
               ],
               "trackingInfo": {
@@ -5313,13 +5313,13 @@ bandersnatch={
                     "id": "R3",
                     "segmentId": "R3",
                     "startTimeMs": 16142560,
-                    "text": "TALK ABOUT MUM"
+                    "text": "ПОГОВОРИ О МАМЕ"
                   },
                   {
                     "id": "3Vx",
                     "segmentId": "3Vx",
                     "startTimeMs": 2160760,
-                    "text": "GO BACK"
+                    "text": "ВЕРНУТЬСЯ НАЗАД"
                   }
                 ],
                 "trackingInfo": {
@@ -5378,13 +5378,13 @@ bandersnatch={
                     "id": "R4",
                     "segmentId": "R4",
                     "startTimeMs": 2750640,
-                    "text": "FOLLOW COLIN"
+                    "text": "СЛЕДИ ЗА КОЛИНОМ"
                   },
                   {
                     "id": "3Vx",
                     "segmentId": "3Vx",
                     "startTimeMs": 2160760,
-                    "text": "GO BACK"
+                    "text": "ВЕРНУТЬСЯ НАЗАД"
                   }
                 ],
                 "trackingInfo": {
@@ -5443,7 +5443,7 @@ bandersnatch={
                     "id": "3B",
                     "segmentId": "3B",
                     "startTimeMs": 1415040,
-                    "text": "THROW TEA OVER COMPUTER",
+                    "text": "ВЫЛЕЙ ЧАЙ НА КОМПЬЮТЕР",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -5458,7 +5458,7 @@ bandersnatch={
                     "id": "3C",
                     "segmentId": "3C",
                     "startTimeMs": 1486960,
-                    "text": "SHOUT AT DAD",
+                    "text": "НАОРИ НА ОТЦА",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -5524,7 +5524,7 @@ bandersnatch={
                   "id": "3Vx",
                   "segmentId": "3Vx",
                   "startTimeMs": 2160760,
-                  "text": "GO BACK"
+                  "text": "ВЕРНУТЬСЯ НАЗАД"
                 }],
                 "trackingInfo": {
                   "viewableId": 80988062,
@@ -5582,7 +5582,7 @@ bandersnatch={
                     "id": "3B",
                     "segmentId": "3B",
                     "startTimeMs": 1415040,
-                    "text": "THROW TEA OVER COMPUTER",
+                    "text": "ВЫЛЕЙ ЧАЙ НА КОМПЬЮТЕР",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -5597,7 +5597,7 @@ bandersnatch={
                     "id": "3C",
                     "segmentId": "3C",
                     "startTimeMs": 1486960,
-                    "text": "SHOUT AT DAD",
+                    "text": "НАОРИ НА ОТЦА",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -5663,13 +5663,13 @@ bandersnatch={
                     "id": "R3",
                     "segmentId": "R3",
                     "startTimeMs": 16142560,
-                    "text": "TALK ABOUT MUM"
+                    "text": "ПОГОВОРИ О МАМЕ"
                   },
                   {
                     "id": "3Nx",
                     "segmentId": "3Nx",
                     "startTimeMs": 3359440,
-                    "text": "GO BACK"
+                    "text": "ВЕРНУТЬСЯ НАЗАД"
                   }
                 ],
                 "trackingInfo": {
@@ -5712,7 +5712,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "THE NETFLIX 'N' LOGO"
+                  "text": "ЛОГОТИП NETFLIX 'N'"
                 },
                 {
                   "id": "nsg-WhiteBearChoice",
@@ -5725,7 +5725,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -5766,7 +5766,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "THE NETFLIX 'N' LOGO"
+                  "text": "ЛОГОТИП NETFLIX 'N'"
                 },
                 {
                   "id": "nsg-WhiteBearChoice",
@@ -5779,7 +5779,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -5838,7 +5838,7 @@ bandersnatch={
                   "trackingInfo": {
                     "segmentId": "No"
                   },
-                  "text": "NO"
+                  "text": "НЕТ"
                 }],
                 "trackingInfo": {
                   "viewableId": 80988062,
@@ -5871,7 +5871,7 @@ bandersnatch={
                     "id": "3B",
                     "segmentId": "3B",
                     "startTimeMs": 1415040,
-                    "text": "THROW TEA OVER COMPUTER",
+                    "text": "ВЫЛЕЙ ЧАЙ НА КОМПЬЮТЕР",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -5886,7 +5886,7 @@ bandersnatch={
                     "id": "3C",
                     "segmentId": "3C",
                     "startTimeMs": 1486960,
-                    "text": "SHOUT AT DAD",
+                    "text": "НАОРИ НА ОТЦА",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -5952,7 +5952,7 @@ bandersnatch={
                     "id": "3Y",
                     "segmentId": "3Y",
                     "startTimeMs": 2109600,
-                    "text": "DESTROY COMPUTER",
+                    "text": "РАЗБЕЙ КОМПЬЮТЕР",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -5966,7 +5966,7 @@ bandersnatch={
                     "id": "3Z",
                     "segmentId": "3Z",
                     "startTimeMs": 2193720,
-                    "text": "HIT DESK"
+                    "text": "УДАРЬ ПО СТОЛУ"
                   }
                 ],
                 "trackingInfo": {
@@ -6000,7 +6000,7 @@ bandersnatch={
                 "id": "1PA",
                 "segmentId": "1PA",
                 "startTimeMs": 6831280,
-                "text": "GO BACK"
+                "text": "ВЕРНУТЬСЯ НАЗАД"
               }],
               "trackingInfo": {
                 "viewableId": 80988062,
@@ -6056,13 +6056,13 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-SS11-0",
                     "sg": "SS11-0",
-                    "text": "WORK AT TUCKERSOFT?"
+                    "text": "РАБОТАТЬ В КОМПАНИИ ТАКЕРСОФТ?"
                   },
                   {
                     "id": "3Ax",
                     "segmentId": "3Ax",
                     "startTimeMs": 1456960,
-                    "text": "GO BACK"
+                    "text": "ВЕРНУТЬСЯ НАЗАД"
                   }
                 ],
                 "trackingInfo": {
@@ -6121,13 +6121,13 @@ bandersnatch={
                     "id": "R3",
                     "segmentId": "R3",
                     "startTimeMs": 16142560,
-                    "text": "TALK ABOUT MUM"
+                    "text": "ПОГОВОРИ О МАМЕ"
                   },
                   {
                     "id": "3Ax",
                     "segmentId": "3Ax",
                     "startTimeMs": 1456960,
-                    "text": "GO BACK"
+                    "text": "ВЕРНУТЬСЯ НАЗАД"
                   }
                 ],
                 "trackingInfo": {
@@ -6186,7 +6186,7 @@ bandersnatch={
                   "id": "3Ax",
                   "segmentId": "3Ax",
                   "startTimeMs": 1456960,
-                  "text": "GO BACK"
+                  "text": "ВЕРНУТЬСЯ НАЗАД"
                 }],
                 "trackingInfo": {
                   "viewableId": 80988062,
@@ -6244,12 +6244,12 @@ bandersnatch={
                     "id": "R3",
                     "segmentId": "R3",
                     "startTimeMs": 16142560,
-                    "text": "TALK ABOUT MUM"
+                    "text": "ПОГОВОРИ О МАМЕ"
                   },
                   {
                     "id": "nsg-SS14-1",
                     "sg": "3Xxa_3Xxc",
-                    "text": "GO BACK"
+                    "text": "ВЕРНУТЬСЯ НАЗАД"
                   }
                 ],
                 "trackingInfo": {
@@ -6308,12 +6308,12 @@ bandersnatch={
                     "id": "R4",
                     "segmentId": "R4",
                     "startTimeMs": 2750640,
-                    "text": "FOLLOW COLIN"
+                    "text": "СЛЕДИ ЗА КОЛИНОМ"
                   },
                   {
                     "id": "nsg-SS15-1",
                     "sg": "3Xxa_3Xxc",
-                    "text": "GO BACK"
+                    "text": "ВЕРНУТЬСЯ НАЗАД"
                   }
                 ],
                 "trackingInfo": {
@@ -6348,7 +6348,7 @@ bandersnatch={
                   "id": "8L",
                   "segmentId": "8L",
                   "startTimeMs": 3253520,
-                  "text": "STEFAN",
+                  "text": "СТЕФАН",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -6363,7 +6363,7 @@ bandersnatch={
                   "id": "3Q",
                   "segmentId": "3Q",
                   "startTimeMs": 3390680,
-                  "text": "COLIN"
+                  "text": "КОЛИН"
                 }
               ],
               "trackingInfo": {
@@ -6422,7 +6422,7 @@ bandersnatch={
                   "trackingInfo": {
                     "segmentId": "No"
                   },
-                  "text": "NO"
+                  "text": "НЕТ"
                 }],
                 "trackingInfo": {
                   "viewableId": 80988062,
@@ -6461,7 +6461,7 @@ bandersnatch={
                     "id": "1S",
                     "segmentId": "1S",
                     "startTimeMs": 11691600,
-                    "text": "THE BERMUDA TRIANGLE"
+                    "text": "БЕРМУДСКИЙ ТРЕУГОЛЬНИК"
                   }
                 ],
                 "trackingInfo": {
@@ -6495,13 +6495,13 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-WhoThereChoice",
                   "sg": "WhoThereChoice",
-                  "text": "WHO'S THERE?"
+                  "text": "КТО ЗДЕСЬ?"
                 },
                 {
                   "id": "0cr1",
                   "segmentId": "0cr1",
                   "startTimeMs": 18595160,
-                  "text": "EXIT TO CREDITS",
+                  "text": "ВЫХОД В ТИТРЫ",
                   "optionType": "credits"
                 }
               ],
@@ -6533,7 +6533,7 @@ bandersnatch={
                   "id": "3B",
                   "segmentId": "3B",
                   "startTimeMs": 1415040,
-                  "text": "THROW TEA OVER COMPUTER",
+                  "text": "ВЫЛЕЙ ЧАЙ НА КОМПЬЮТЕР",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -6548,7 +6548,7 @@ bandersnatch={
                   "id": "3C",
                   "segmentId": "3C",
                   "startTimeMs": 1486960,
-                  "text": "SHOUT AT DAD",
+                  "text": "НАОРИ НА ОТЦА",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -6621,7 +6621,7 @@ bandersnatch={
                         "backgroundRepeat": "no-repeat"
                       }
                     },
-                    "text": "THE NETFLIX 'N' LOGO"
+                    "text": "ЛОГОТИП NETFLIX 'N'"
                   },
                   {
                     "id": "nsg-WhiteBearChoice",
@@ -6634,7 +6634,7 @@ bandersnatch={
                         "backgroundRepeat": "no-repeat"
                       }
                     },
-                    "text": "'WHITE BEAR' GLYPH"
+                    "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                   }
                 ],
                 "trackingInfo": {
@@ -6692,7 +6692,7 @@ bandersnatch={
                     "id": "3Y",
                     "segmentId": "3Y",
                     "startTimeMs": 2109600,
-                    "text": "DESTROY COMPUTER",
+                    "text": "РАЗБЕЙ КОМПЬЮТЕР",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -6706,7 +6706,7 @@ bandersnatch={
                     "id": "3Z",
                     "segmentId": "3Z",
                     "startTimeMs": 2193720,
-                    "text": "HIT DESK"
+                    "text": "УДАРЬ ПО СТОЛУ"
                   }
                 ],
                 "trackingInfo": {
@@ -6739,12 +6739,12 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-8AChoice",
                   "sg": "8AChoice",
-                  "text": "ACCEPT"
+                  "text": "СОГЛАСИСЬ"
                 },
                 {
                   "id": "nsg-1Q_rewatch",
                   "sg": "1Q_rewatch",
-                  "text": "REFUSE"
+                  "text": "ОТКАЖИ"
                 }
               ],
               "trackingInfo": {
@@ -6821,7 +6821,7 @@ bandersnatch={
                         "backgroundRepeat": "no-repeat"
                       }
                     },
-                    "text": "'WHITE BEAR' GLYPH"
+                    "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                   }
                 ],
                 "trackingInfo": {
@@ -6855,13 +6855,13 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-S59A-0",
                   "sg": "chopBuryRecap",
-                  "text": "CHOP OR BURY?"
+                  "text": "РАСЧЛЕНИТЬ ИЛИ ЗАКОПАТЬ?"
                 },
                 {
                   "id": "0cr1",
                   "segmentId": "0cr1",
                   "startTimeMs": 18595160,
-                  "text": "EXIT TO CREDITS",
+                  "text": "ВЫХОД В ТИТРЫ",
                   "optionType": "credits"
                 }
               ],
@@ -6893,13 +6893,13 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-S59B-0",
                   "sg": "chopBuryRecap",
-                  "text": "CHOP OR BURY?"
+                  "text": "РАСЧЛЕНИТЬ ИЛИ ЗАКОПАТЬ?"
                 },
                 {
                   "id": "0cr1",
                   "segmentId": "0cr1",
                   "startTimeMs": 18595160,
-                  "text": "EXIT TO CREDITS",
+                  "text": "ВЫХОД В ТИТРЫ",
                   "optionType": "credits"
                 }
               ],
@@ -6931,13 +6931,13 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-WhoThereChoice",
                   "sg": "WhoThereChoice",
-                  "text": "WHO'S THERE?"
+                  "text": "КТО ЗДЕСЬ?"
                 },
                 {
                   "id": "0cr1",
                   "segmentId": "0cr1",
                   "startTimeMs": 18595160,
-                  "text": "EXIT TO CREDITS",
+                  "text": "ВЫХОД В ТИТРЫ",
                   "optionType": "credits"
                 }
               ],
@@ -6993,13 +6993,13 @@ bandersnatch={
                     "id": "5H",
                     "segmentId": "5H",
                     "startTimeMs": 3684720,
-                    "text": "KILL DAD"
+                    "text": "УБЕЙ ОТЦА"
                   },
                   {
                     "id": "5G",
                     "segmentId": "5G",
                     "startTimeMs": 15480040,
-                    "text": "BACK OFF",
+                    "text": "ОТВАЛИ",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -7077,7 +7077,7 @@ bandersnatch={
                     "id": "5UA",
                     "segmentId": "5UA",
                     "startTimeMs": 3795400,
-                    "text": "YES",
+                    "text": "ДА",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -7091,7 +7091,7 @@ bandersnatch={
                     "id": "5TA",
                     "segmentId": "5TA",
                     "startTimeMs": 13760360,
-                    "text": "NO",
+                    "text": "НЕТ",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -7133,7 +7133,7 @@ bandersnatch={
                   "id": "3B",
                   "segmentId": "3B",
                   "startTimeMs": 1415040,
-                  "text": "THROW TEA OVER COMPUTER",
+                  "text": "ВЫЛЕЙ ЧАЙ НА КОМПЬЮТЕР",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -7148,7 +7148,7 @@ bandersnatch={
                   "id": "3C",
                   "segmentId": "3C",
                   "startTimeMs": 1486960,
-                  "text": "SHOUT AT DAD",
+                  "text": "НАОРИ НА ОТЦА",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -7233,7 +7233,7 @@ bandersnatch={
                         "backgroundRepeat": "no-repeat"
                       }
                     },
-                    "text": "'WHITE BEAR' GLYPH"
+                    "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                   }
                 ],
                 "trackingInfo": {
@@ -7268,13 +7268,13 @@ bandersnatch={
                   "id": "R4",
                   "segmentId": "R4",
                   "startTimeMs": 2750640,
-                  "text": "FOLLOW COLIN"
+                  "text": "СЛЕДИ ЗА КОЛИНОМ"
                 },
                 {
                   "id": "0cr1",
                   "segmentId": "0cr1",
                   "startTimeMs": 18595160,
-                  "text": "EXIT TO CREDITS",
+                  "text": "ВЫХОД В ТИТРЫ",
                   "optionType": "credits"
                 }
               ],
@@ -7306,7 +7306,7 @@ bandersnatch={
                   "id": "8L",
                   "segmentId": "8L",
                   "startTimeMs": 3253520,
-                  "text": "STEFAN",
+                  "text": "СТЕФАН",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -7321,7 +7321,7 @@ bandersnatch={
                   "id": "3Q",
                   "segmentId": "3Q",
                   "startTimeMs": 3390680,
-                  "text": "COLIN"
+                  "text": "КОЛИН"
                 }
               ],
               "trackingInfo": {
@@ -7386,7 +7386,7 @@ bandersnatch={
                         "backgroundRepeat": "no-repeat"
                       }
                     },
-                    "text": "THE NETFLIX 'N' LOGO"
+                    "text": "ЛОГОТИП NETFLIX 'N'"
                   },
                   {
                     "id": "nsg-WhiteBearChoice",
@@ -7399,7 +7399,7 @@ bandersnatch={
                         "backgroundRepeat": "no-repeat"
                       }
                     },
-                    "text": "'WHITE BEAR' GLYPH"
+                    "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                   }
                 ],
                 "trackingInfo": {
@@ -7434,13 +7434,13 @@ bandersnatch={
                   "id": "R4",
                   "segmentId": "R4",
                   "startTimeMs": 2750640,
-                  "text": "FOLLOW COLIN"
+                  "text": "СЛЕДИ ЗА КОЛИНОМ"
                 },
                 {
                   "id": "0cr1",
                   "segmentId": "0cr1",
                   "startTimeMs": 18595160,
-                  "text": "EXIT TO CREDITS",
+                  "text": "ВЫХОД В ТИТРЫ",
                   "optionType": "credits"
                 }
               ],
@@ -7495,13 +7495,13 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-2BChoice",
                     "sg": "2BChoice",
-                    "text": "YES"
+                    "text": "ДА"
                   },
                   {
                     "id": "2GA",
                     "segmentId": "2GA",
                     "startTimeMs": 7894920,
-                    "text": "NO"
+                    "text": "НЕТ"
                   }
                 ],
                 "trackingInfo": {
@@ -7559,13 +7559,13 @@ bandersnatch={
                     "id": "3N",
                     "segmentId": "3N",
                     "startTimeMs": 2983840,
-                    "text": "YES"
+                    "text": "ДА"
                   },
                   {
                     "id": "3P",
                     "segmentId": "3P",
                     "startTimeMs": 15033600,
-                    "text": "NO"
+                    "text": "НЕТ"
                   }
                 ],
                 "trackingInfo": {
@@ -7634,12 +7634,12 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-VisitHaynesChoice",
                     "sg": "VisitHaynesChoice",
-                    "text": "VISIT DR. HAYNES"
+                    "text": "ПОСЕТИ Д-РА ХЕЙНСА"
                   },
                   {
                     "id": "nsg-FollowColinChoice",
                     "sg": "FollowColinChoice",
-                    "text": "FOLLOW COLIN"
+                    "text": "СЛЕДИ ЗА КОЛИНОМ"
                   }
                 ],
                 "trackingInfo": {
@@ -7696,12 +7696,12 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-VisitHaynesChoice",
                     "sg": "VisitHaynesChoice",
-                    "text": "VISIT DR. HAYNES"
+                    "text": "ПОСЕТИ Д-РА ХЕЙНСА"
                   },
                   {
                     "id": "nsg-FollowColinChoice",
                     "sg": "FollowColinChoice",
-                    "text": "FOLLOW COLIN"
+                    "text": "СЛЕДИ ЗА КОЛИНОМ"
                   }
                 ],
                 "trackingInfo": {
@@ -7759,13 +7759,13 @@ bandersnatch={
                     "id": "5AF",
                     "segmentId": "5AF",
                     "startTimeMs": 3903920,
-                    "text": "NO IDEA"
+                    "text": "НЕТ ИДЕЙ"
                   },
                   {
                     "id": "5AE",
                     "segmentId": "5AE",
                     "startTimeMs": 14489560,
-                    "text": "HE JUMPED"
+                    "text": "ОН ПРЫГНУЛ"
                   }
                 ],
                 "trackingInfo": {
@@ -7823,13 +7823,13 @@ bandersnatch={
                     "id": "3U",
                     "segmentId": "3U",
                     "startTimeMs": 1645800,
-                    "text": "BITE NAILS"
+                    "text": "ПОГРЫЗИ НОГТИ"
                   },
                   {
                     "id": "3T",
                     "segmentId": "3T",
                     "startTimeMs": 15427080,
-                    "text": "PULL EARLOBE"
+                    "text": "ПОТЯНИ ЗА МОЧКУ УХА"
                   }
                 ],
                 "trackingInfo": {
@@ -7863,7 +7863,7 @@ bandersnatch={
                   "id": "8L",
                   "segmentId": "8L",
                   "startTimeMs": 3253520,
-                  "text": "STEFAN",
+                  "text": "СТЕФАН",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -7878,7 +7878,7 @@ bandersnatch={
                   "id": "3Q",
                   "segmentId": "3Q",
                   "startTimeMs": 3390680,
-                  "text": "COLIN"
+                  "text": "КОЛИН"
                 }
               ],
               "trackingInfo": {
@@ -7934,12 +7934,12 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-FamilyPhotoChoice",
                     "sg": "FamilyPhotoChoice",
-                    "text": "PICK UP FAMILY PHOTO"
+                    "text": "ЗАБЕРИ СЕМЕЙНУЮ ФОТОГРАФИЮ"
                   },
                   {
                     "id": "nsg-BookChoice",
                     "sg": "BookChoice",
-                    "text": "PICK UP BOOK"
+                    "text": "ЗАБЕРИ КНИГУ"
                   }
                 ],
                 "trackingInfo": {
@@ -7973,7 +7973,7 @@ bandersnatch={
                   "id": "8B_Variant2",
                   "segmentId": "8B",
                   "startTimeMs": 1738880,
-                  "text": "TAKE THEM",
+                  "text": "ВЫПЕЙ ИХ",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -7986,7 +7986,7 @@ bandersnatch={
                 {
                   "id": "nsg-FlushThemChoice3X",
                   "sg": "FlushThemChoice3X",
-                  "text": "FLUSH THEM",
+                  "text": "СПУСТИ В УНИТАЗ",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -8027,7 +8027,7 @@ bandersnatch={
                   "id": "3Y",
                   "segmentId": "3Y",
                   "startTimeMs": 2109600,
-                  "text": "DESTROY COMPUTER",
+                  "text": "РАЗБЕЙ КОМПЬЮТЕР",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -8041,7 +8041,7 @@ bandersnatch={
                   "id": "3Z",
                   "segmentId": "3Z",
                   "startTimeMs": 2193720,
-                  "text": "HIT DESK"
+                  "text": "УДАРЬ ПО СТОЛУ"
                 }
               ],
               "trackingInfo": {
@@ -8098,7 +8098,7 @@ bandersnatch={
                     "id": "3Y",
                     "segmentId": "3Y",
                     "startTimeMs": 2109600,
-                    "text": "DESTROY COMPUTER",
+                    "text": "РАЗБЕЙ КОМПЬЮТЕР",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -8112,7 +8112,7 @@ bandersnatch={
                     "id": "3Z",
                     "segmentId": "3Z",
                     "startTimeMs": 2193720,
-                    "text": "HIT DESK"
+                    "text": "УДАРЬ ПО СТОЛУ"
                   }
                 ],
                 "trackingInfo": {
@@ -8253,13 +8253,13 @@ bandersnatch={
                     "id": "5AH",
                     "segmentId": "5AH",
                     "startTimeMs": 13880680,
-                    "text": "LET HIM GO"
+                    "text": "ОТПУСТИ ЕГО"
                   },
                   {
                     "id": "5AJ",
                     "segmentId": "5AJ",
                     "startTimeMs": 14805520,
-                    "text": "KILL HIM"
+                    "text": "УБЕЙ ЕГО"
                   }
                 ],
                 "trackingInfo": {
@@ -8338,12 +8338,12 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-FamilyPhotoChoice",
                   "sg": "FamilyPhotoChoice",
-                  "text": "PICK UP FAMILY PHOTO"
+                  "text": "ЗАБЕРИ СЕМЕЙНУЮ ФОТОГРАФИЮ"
                 },
                 {
                   "id": "nsg-BookChoice",
                   "sg": "BookChoice",
-                  "text": "PICK UP BOOK"
+                  "text": "ЗАБЕРИ КНИГУ"
                 }
               ],
               "trackingInfo": {
@@ -8408,7 +8408,7 @@ bandersnatch={
                         "backgroundRepeat": "no-repeat"
                       }
                     },
-                    "text": "THE NETFLIX 'N' LOGO"
+                    "text": "ЛОГОТИП NETFLIX 'N'"
                   },
                   {
                     "id": "nsg-WhiteBearChoice",
@@ -8421,7 +8421,7 @@ bandersnatch={
                         "backgroundRepeat": "no-repeat"
                       }
                     },
-                    "text": "'WHITE BEAR' GLYPH"
+                    "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                   }
                 ],
                 "trackingInfo": {
@@ -8499,7 +8499,7 @@ bandersnatch={
                         "backgroundRepeat": "no-repeat"
                       }
                     },
-                    "text": "'WHITE BEAR' GLYPH"
+                    "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                   }
                 ],
                 "trackingInfo": {
@@ -8559,7 +8559,7 @@ bandersnatch={
                   "trackingInfo": {
                     "segmentId": "No"
                   },
-                  "text": "NO"
+                  "text": "НЕТ"
                 }],
                 "trackingInfo": {
                   "viewableId": 80988062,
@@ -8601,7 +8601,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "THE NETFLIX 'N' LOGO"
+                  "text": "ЛОГОТИП NETFLIX 'N'"
                 },
                 {
                   "id": "nsg-WhiteBearChoice",
@@ -8614,7 +8614,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -8667,7 +8667,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -8701,13 +8701,13 @@ bandersnatch={
                   "id": "R2",
                   "segmentId": "R2",
                   "startTimeMs": 4525960,
-                  "text": "GET RABBIT FROM DAD"
+                  "text": "ПОЛУЧИТЬ КРОЛИКА ОТ ОТЦА"
                 },
                 {
                   "id": "0cr1",
                   "segmentId": "0cr1",
                   "startTimeMs": 18595160,
-                  "text": "EXIT TO CREDITS",
+                  "text": "ВЫХОД В ТИТРЫ",
                   "optionType": "credits"
                 }
               ],
@@ -8740,13 +8740,13 @@ bandersnatch={
                   "id": "R2",
                   "segmentId": "R2",
                   "startTimeMs": 4525960,
-                  "text": "GET RABBIT FROM DAD"
+                  "text": "ПОЛУЧИТЬ КРОЛИКА ОТ ОТЦА"
                 },
                 {
                   "id": "0cr1",
                   "segmentId": "0cr1",
                   "startTimeMs": 18595160,
-                  "text": "EXIT TO CREDITS",
+                  "text": "ВЫХОД В ТИТРЫ",
                   "optionType": "credits"
                 }
               ],
@@ -8778,13 +8778,13 @@ bandersnatch={
                   "id": "5AF",
                   "segmentId": "5AF",
                   "startTimeMs": 3903920,
-                  "text": "NO IDEA"
+                  "text": "НЕТ ИДЕЙ"
                 },
                 {
                   "id": "5AE",
                   "segmentId": "5AE",
                   "startTimeMs": 14489560,
-                  "text": "HE JUMPED"
+                  "text": "ОН ПРЫГНУЛ"
                 }
               ],
               "trackingInfo": {
@@ -8817,7 +8817,7 @@ bandersnatch={
                   "id": "8B",
                   "segmentId": "8B",
                   "startTimeMs": 1738880,
-                  "text": "THROW THEM AWAY",
+                  "text": "ВЫПЕЙ ИХ",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -8830,7 +8830,7 @@ bandersnatch={
                 {
                   "id": "nsg-FlushThemChoice3X",
                   "sg": "FlushThemChoice3X",
-                  "text": "FLUSH THEM",
+                  "text": "СПУСТИ В УНИТАЗ",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -8871,13 +8871,13 @@ bandersnatch={
                   "id": "7C",
                   "segmentId": "7C",
                   "startTimeMs": 2499440,
-                  "text": "TELL HIM MORE"
+                  "text": "РАССКАЗАТЬ ЕМУ БОЛЬШЕ"
                 },
                 {
                   "id": "7D",
                   "segmentId": "7D",
                   "startTimeMs": 2513520,
-                  "text": "STOP THE CONVERSATION"
+                  "text": "ПРЕКРАТИТЬ РАЗГОВОР"
                 }
               ],
               "trackingInfo": {
@@ -8934,13 +8934,13 @@ bandersnatch={
                     "id": "7B",
                     "segmentId": "7B",
                     "startTimeMs": 2474800,
-                    "text": "TELL HIM MORE"
+                    "text": "РАССКАЗАТЬ ЕМУ БОЛЬШЕ"
                   },
                   {
                     "id": "7B2",
                     "segmentId": "7B",
                     "startTimeMs": 2474800,
-                    "text": "TRY TO EXPLAIN"
+                    "text": "ПОПЫТАТЬСЯ ОБЪЯСНИТЬ"
                   }
                 ],
                 "trackingInfo": {
@@ -8974,7 +8974,7 @@ bandersnatch={
                   "id": "8B_Variant2",
                   "segmentId": "8B",
                   "startTimeMs": 1738880,
-                  "text": "TAKE THEM",
+                  "text": "ВЫПЕЙ ИХ",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -8987,7 +8987,7 @@ bandersnatch={
                 {
                   "id": "nsg-FlushThemChoice3X",
                   "sg": "FlushThemChoice3X",
-                  "text": "FLUSH THEM",
+                  "text": "СПУСТИ В УНИТАЗ",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -9028,7 +9028,7 @@ bandersnatch={
                   "id": "3B",
                   "segmentId": "3B",
                   "startTimeMs": 1415040,
-                  "text": "THROW TEA OVER COMPUTER",
+                  "text": "ВЫЛЕЙ ЧАЙ НА КОМПЬЮТЕР",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -9043,7 +9043,7 @@ bandersnatch={
                   "id": "3C",
                   "segmentId": "3C",
                   "startTimeMs": 1486960,
-                  "text": "SHOUT AT DAD",
+                  "text": "НАОРИ НА ОТЦА",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -9104,7 +9104,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -9137,7 +9137,7 @@ bandersnatch={
                   "id": "7K",
                   "segmentId": "7K",
                   "startTimeMs": 6732000,
-                  "text": "KARATE CHOP DAD",
+                  "text": "УДАР КАРАТЭ ПО ОТЦУ",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -9152,7 +9152,7 @@ bandersnatch={
                   "id": "7J",
                   "segmentId": "7J",
                   "startTimeMs": 15410360,
-                  "text": "KICK HIM IN THE BALLS",
+                  "text": "ДАТЬ ЕМУ ПО ЯЙЦАМ",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -9230,7 +9230,7 @@ bandersnatch={
                     "id": "5U",
                     "segmentId": "5U",
                     "startTimeMs": 13579720,
-                    "text": "YES",
+                    "text": "ДА",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -9244,7 +9244,7 @@ bandersnatch={
                     "id": "5T",
                     "segmentId": "5T",
                     "startTimeMs": 15497360,
-                    "text": "NO",
+                    "text": "НЕТ",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -9286,7 +9286,7 @@ bandersnatch={
                   "id": "R1",
                   "segmentId": "R1",
                   "startTimeMs": 15983280,
-                  "text": "PICK UP PHOTO",
+                  "text": "ЗАБЕРИ ФОТОГРАФИЮ",
                   "impressionData": {
                     "type": "userState",
                     "data": {}
@@ -9296,7 +9296,7 @@ bandersnatch={
                   "id": "5H",
                   "segmentId": "5H",
                   "startTimeMs": 3684720,
-                  "text": "KILL DAD",
+                  "text": "УБЕЙ ОТЦА",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -9338,7 +9338,7 @@ bandersnatch={
                   "id": "R2",
                   "segmentId": "R2",
                   "startTimeMs": 4525960,
-                  "text": "GET RABBIT FROM DAD",
+                  "text": "ПОЛУЧИТЬ КРОЛИКА ОТ ОТЦА",
                   "impressionData": {
                     "type": "userState",
                     "data": {}
@@ -9348,7 +9348,7 @@ bandersnatch={
                   "id": "5H",
                   "segmentId": "5H",
                   "startTimeMs": 3684720,
-                  "text": "KILL DAD",
+                  "text": "УБЕЙ ОТЦА",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -9390,7 +9390,7 @@ bandersnatch={
                   "id": "R4",
                   "segmentId": "R4",
                   "startTimeMs": 2750640,
-                  "text": "FOLLOW COLIN",
+                  "text": "СЛЕДИ ЗА КОЛИНОМ",
                   "impressionData": {
                     "type": "userState",
                     "data": {}
@@ -9400,7 +9400,7 @@ bandersnatch={
                   "id": "5H",
                   "segmentId": "5H",
                   "startTimeMs": 3684720,
-                  "text": "KILL DAD",
+                  "text": "УБЕЙ ОТЦА",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -9442,12 +9442,12 @@ bandersnatch={
                   "id": "R2",
                   "segmentId": "R2",
                   "startTimeMs": 4525960,
-                  "text": "GET RABBIT FROM DAD"
+                  "text": "ПОЛУЧИТЬ КРОЛИКА ОТ ОТЦА"
                 },
                 {
                   "id": "nsg-WhoThereChoice",
                   "sg": "WhoThereChoice",
-                  "text": "WHO'S THERE?"
+                  "text": "КТО ЗДЕСЬ?"
                 }
               ],
               "trackingInfo": {
@@ -9481,12 +9481,12 @@ bandersnatch={
                   "id": "R4",
                   "segmentId": "R4",
                   "startTimeMs": 2750640,
-                  "text": "FOLLOW COLIN"
+                  "text": "СЛЕДИ ЗА КОЛИНОМ"
                 },
                 {
                   "id": "nsg-WhoThereChoice",
                   "sg": "WhoThereChoice",
-                  "text": "WHO'S THERE?"
+                  "text": "КТО ЗДЕСЬ?"
                 }
               ],
               "trackingInfo": {
@@ -9519,7 +9519,7 @@ bandersnatch={
               "choices": [{
                 "id": "nsg-WhoThereChoice",
                 "sg": "WhoThereChoice",
-                "text": "WHO'S THERE?"
+                "text": "КТО ЗДЕСЬ?"
               }],
               "trackingInfo": {
                 "viewableId": 80988062,
@@ -9552,7 +9552,7 @@ bandersnatch={
                   "id": "R3",
                   "segmentId": "R3",
                   "startTimeMs": 16142560,
-                  "text": "TALK ABOUT MUM",
+                  "text": "ПОГОВОРИ О МАМЕ",
                   "impressionData": {
                     "type": "userState",
                     "data": {}
@@ -9562,7 +9562,7 @@ bandersnatch={
                   "id": "5H",
                   "segmentId": "5H",
                   "startTimeMs": 3684720,
-                  "text": "KILL DAD",
+                  "text": "УБЕЙ ОТЦА",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -9603,12 +9603,12 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-8AChoice",
                   "sg": "8AChoice",
-                  "text": "ACCEPT"
+                  "text": "СОГЛАСИСЬ"
                 },
                 {
                   "id": "nsg-1Q_rewatch",
                   "sg": "1Q_rewatch",
-                  "text": "REFUSE"
+                  "text": "ОТКАЖИ"
                 }
               ],
               "trackingInfo": {
@@ -9641,13 +9641,13 @@ bandersnatch={
                   "id": "R3",
                   "segmentId": "R3",
                   "startTimeMs": 16142560,
-                  "text": "TALK ABOUT MUM"
+                  "text": "ПОГОВОРИ О МАМЕ"
                 },
                 {
                   "id": "R4",
                   "segmentId": "R4",
                   "startTimeMs": 2750640,
-                  "text": "FOLLOW COLIN"
+                  "text": "СЛЕДИ ЗА КОЛИНОМ"
                 }
               ],
               "trackingInfo": {
@@ -9680,12 +9680,12 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-8AChoice",
                   "sg": "8AChoice",
-                  "text": "ACCEPT"
+                  "text": "СОГЛАСИСЬ"
                 },
                 {
                   "id": "nsg-1Q_rewatch",
                   "sg": "1Q_rewatch",
-                  "text": "REFUSE"
+                  "text": "ОТКАЖИ"
                 }
               ],
               "trackingInfo": {
@@ -9741,12 +9741,12 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-5V-0",
                     "sg": "5V-0",
-                    "text": "BURY BODY"
+                    "text": "ЗАКОПАТЬ ТЕЛО"
                   },
                   {
                     "id": "nsg-5V-1",
                     "sg": "5V-1",
-                    "text": "CHOP UP BODY"
+                    "text": "РАСЧЛЕНИТЬ ТЕЛО"
                   }
                 ],
                 "trackingInfo": {
@@ -9780,12 +9780,12 @@ bandersnatch={
                   "id": "R1",
                   "segmentId": "R1",
                   "startTimeMs": 15983280,
-                  "text": "PICK UP PHOTO"
+                  "text": "ЗАБЕРИ ФОТОГРАФИЮ"
                 },
                 {
                   "id": "nsg-WhoThereChoice",
                   "sg": "WhoThereChoice",
-                  "text": "WHO'S THERE?"
+                  "text": "КТО ЗДЕСЬ?"
                 }
               ],
               "trackingInfo": {
@@ -9820,13 +9820,13 @@ bandersnatch={
                   "id": "R1",
                   "segmentId": "R1",
                   "startTimeMs": 15983280,
-                  "text": "PICK UP PHOTO"
+                  "text": "ЗАБЕРИ ФОТОГРАФИЮ"
                 },
                 {
                   "id": "0cr1",
                   "segmentId": "0cr1",
                   "startTimeMs": 18595160,
-                  "text": "EXIT TO CREDITS",
+                  "text": "ВЫХОД В ТИТРЫ",
                   "optionType": "credits"
                 }
               ],
@@ -9859,13 +9859,13 @@ bandersnatch={
                   "id": "R1",
                   "segmentId": "R1",
                   "startTimeMs": 15983280,
-                  "text": "PICK UP PHOTO"
+                  "text": "ЗАБЕРИ ФОТОГРАФИЮ"
                 },
                 {
                   "id": "0cr1",
                   "segmentId": "0cr1",
                   "startTimeMs": 18595160,
-                  "text": "EXIT TO CREDITS",
+                  "text": "ВЫХОД В ТИТРЫ",
                   "optionType": "credits"
                 }
               ],
@@ -9995,7 +9995,7 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-SS52-0",
                   "sg": "chopBuryRecap",
-                  "text": "CHOP OR BURY?",
+                  "text": "РАСЧЛЕНИТЬ ИЛИ ЗАКОПАТЬ?",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -10009,7 +10009,7 @@ bandersnatch={
                   "id": "0cr2",
                   "segmentId": "0cr2",
                   "startTimeMs": 18646200,
-                  "text": "EXIT TO CREDITS",
+                  "text": "ВЫХОД В ТИТРЫ",
                   "optionType": "credits",
                   "impressionData": {
                     "type": "userState",
@@ -10168,7 +10168,7 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-SS53-0",
                   "sg": "chopBuryRecap",
-                  "text": "CHOP OR BURY?",
+                  "text": "РАСЧЛЕНИТЬ ИЛИ ЗАКОПАТЬ?",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -10182,7 +10182,7 @@ bandersnatch={
                   "id": "0cr2",
                   "segmentId": "0cr2",
                   "startTimeMs": 18646200,
-                  "text": "EXIT TO CREDITS",
+                  "text": "ВЫХОД В ТИТРЫ",
                   "optionType": "credits",
                   "impressionData": {
                     "type": "userState",
@@ -10266,7 +10266,7 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-WhoThereChoice-SS54",
                     "sg": "WhoThereChoice-SS54",
-                    "text": "WHO'S THERE?",
+                    "text": "КТО ЗДЕСЬ?",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -10280,7 +10280,7 @@ bandersnatch={
                     "id": "0cr2",
                     "segmentId": "0cr2",
                     "startTimeMs": 18646200,
-                    "text": "EXIT TO CREDITS",
+                    "text": "ВЫХОД В ТИТРЫ",
                     "optionType": "credits",
                     "impressionData": {
                       "type": "userState",
@@ -10365,7 +10365,7 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-SS55-0",
                     "sg": "SS55-0",
-                    "text": "PICK UP PHOTO",
+                    "text": "ЗАБЕРИ ФОТОГРАФИЮ",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -10379,7 +10379,7 @@ bandersnatch={
                     "id": "0cr2",
                     "segmentId": "0cr2",
                     "startTimeMs": 18646200,
-                    "text": "EXIT TO CREDITS",
+                    "text": "ВЫХОД В ТИТРЫ",
                     "optionType": "credits",
                     "impressionData": {
                       "type": "userState",
@@ -10419,12 +10419,12 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-8AChoice",
                   "sg": "8AChoice",
-                  "text": "ACCEPT"
+                  "text": "СОГЛАСИСЬ"
                 },
                 {
                   "id": "nsg-1Q_rewatch",
                   "sg": "1Q_rewatch",
-                  "text": "REFUSE"
+                  "text": "ОТКАЖИ"
                 }
               ],
               "trackingInfo": {
@@ -10505,7 +10505,7 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-SS56-0",
                     "sg": "SS56-0",
-                    "text": "GET RABBIT FROM DAD",
+                    "text": "ПОЛУЧИТЬ КРОЛИКА ОТ ОТЦА",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -10519,7 +10519,7 @@ bandersnatch={
                     "id": "0cr2",
                     "segmentId": "0cr2",
                     "startTimeMs": 18646200,
-                    "text": "EXIT TO CREDITS",
+                    "text": "ВЫХОД В ТИТРЫ",
                     "optionType": "credits",
                     "impressionData": {
                       "type": "userState",
@@ -10584,7 +10584,7 @@ bandersnatch={
                     "id": "3Y",
                     "segmentId": "3Y",
                     "startTimeMs": 2109600,
-                    "text": "DESTROY COMPUTER",
+                    "text": "РАЗБЕЙ КОМПЬЮТЕР",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -10598,7 +10598,7 @@ bandersnatch={
                     "id": "3Z",
                     "segmentId": "3Z",
                     "startTimeMs": 2193720,
-                    "text": "HIT DESK"
+                    "text": "УДАРЬ ПО СТОЛУ"
                   }
                 ],
                 "trackingInfo": {
@@ -10693,13 +10693,13 @@ bandersnatch={
                     "id": "R6",
                     "segmentId": "R6",
                     "startTimeMs": 4901120,
-                    "text": "'PROGRAM & CONTROL'"
+                    "text": "'ПРОГРАММА И КОНТРОЛЬ'"
                   },
                   {
                     "id": "0cr2",
                     "segmentId": "0cr2",
                     "startTimeMs": 18646200,
-                    "text": "EXIT TO CREDITS",
+                    "text": "ВЫХОД В ТИТРЫ",
                     "optionType": "credits"
                   }
                 ],
@@ -10756,7 +10756,7 @@ bandersnatch={
                     "id": "3Y",
                     "segmentId": "3Y",
                     "startTimeMs": 2109600,
-                    "text": "DESTROY COMPUTER",
+                    "text": "РАЗБЕЙ КОМПЬЮТЕР",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -10770,7 +10770,7 @@ bandersnatch={
                     "id": "3Z",
                     "segmentId": "3Z",
                     "startTimeMs": 2193720,
-                    "text": "HIT DESK"
+                    "text": "УДАРЬ ПО СТОЛУ"
                   }
                 ],
                 "trackingInfo": {
@@ -10803,12 +10803,12 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-8AChoice",
                   "sg": "8AChoice",
-                  "text": "ACCEPT"
+                  "text": "СОГЛАСИСЬ"
                 },
                 {
                   "id": "nsg-1Q_rewatch",
                   "sg": "1Q_rewatch",
-                  "text": "REFUSE"
+                  "text": "ОТКАЖИ"
                 }
               ],
               "trackingInfo": {
@@ -10864,13 +10864,13 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-2BChoice",
                     "sg": "2BChoice",
-                    "text": "YES"
+                    "text": "ДА"
                   },
                   {
                     "id": "2GA",
                     "segmentId": "2GA",
                     "startTimeMs": 7894920,
-                    "text": "NO"
+                    "text": "НЕТ"
                   }
                 ],
                 "trackingInfo": {
@@ -10904,7 +10904,7 @@ bandersnatch={
                   "id": "3Y",
                   "segmentId": "3Y",
                   "startTimeMs": 2109600,
-                  "text": "DESTROY COMPUTER",
+                  "text": "РАЗБЕЙ КОМПЬЮТЕР",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -10918,7 +10918,7 @@ bandersnatch={
                   "id": "3Z",
                   "segmentId": "3Z",
                   "startTimeMs": 2193720,
-                  "text": "HIT DESK"
+                  "text": "УДАРЬ ПО СТОЛУ"
                 }
               ],
               "trackingInfo": {
@@ -10999,7 +10999,7 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-SS50-0",
                     "sg": "SS50-0",
-                    "text": "TALK ABOUT MUM",
+                    "text": "ПОГОВОРИ О МАМЕ",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -11013,7 +11013,7 @@ bandersnatch={
                     "id": "0cr2",
                     "segmentId": "0cr2",
                     "startTimeMs": 18646200,
-                    "text": "EXIT TO CREDITS",
+                    "text": "ВЫХОД В ТИТРЫ",
                     "optionType": "credits",
                     "impressionData": {
                       "type": "userState",
@@ -11102,7 +11102,7 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-SS51-0",
                     "sg": "SS51-0",
-                    "text": "FOLLOW COLIN",
+                    "text": "СЛЕДИ ЗА КОЛИНОМ",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -11116,7 +11116,7 @@ bandersnatch={
                     "id": "0cr2",
                     "segmentId": "0cr2",
                     "startTimeMs": 18646200,
-                    "text": "EXIT TO CREDITS",
+                    "text": "ВЫХОД В ТИТРЫ",
                     "optionType": "credits",
                     "impressionData": {
                       "type": "userState",
@@ -11177,7 +11177,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -11325,7 +11325,7 @@ bandersnatch={
                         "backgroundRepeat": "no-repeat"
                       }
                     },
-                    "text": "'WHITE BEAR' GLYPH"
+                    "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                   }
                 ],
                 "trackingInfo": {
@@ -11359,7 +11359,7 @@ bandersnatch={
                   "id": "3Y",
                   "segmentId": "3Y",
                   "startTimeMs": 2109600,
-                  "text": "DESTROY COMPUTER",
+                  "text": "РАЗБЕЙ КОМПЬЮТЕР",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -11373,7 +11373,7 @@ bandersnatch={
                   "id": "3Z",
                   "segmentId": "3Z",
                   "startTimeMs": 2193720,
-                  "text": "HIT DESK"
+                  "text": "УДАРЬ ПО СТОЛУ"
                 }
               ],
               "trackingInfo": {
@@ -11450,7 +11450,7 @@ bandersnatch={
                         "backgroundRepeat": "no-repeat"
                       }
                     },
-                    "text": "'WHITE BEAR' GLYPH"
+                    "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                   }
                 ],
                 "trackingInfo": {
@@ -11504,7 +11504,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -11537,7 +11537,7 @@ bandersnatch={
                   "id": "3B",
                   "segmentId": "3B",
                   "startTimeMs": 1415040,
-                  "text": "THROW TEA OVER COMPUTER",
+                  "text": "ВЫЛЕЙ ЧАЙ НА КОМПЬЮТЕР",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -11552,7 +11552,7 @@ bandersnatch={
                   "id": "3C",
                   "segmentId": "3C",
                   "startTimeMs": 1486960,
-                  "text": "SHOUT AT DAD",
+                  "text": "НАОРИ НА ОТЦА",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -11613,7 +11613,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -11666,7 +11666,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -11831,12 +11831,12 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-FamilyPhotoChoice",
                   "sg": "FamilyPhotoChoice",
-                  "text": "PICK UP FAMILY PHOTO"
+                  "text": "ЗАБЕРИ СЕМЕЙНУЮ ФОТОГРАФИЮ"
                 },
                 {
                   "id": "nsg-BookChoice",
                   "sg": "BookChoice",
-                  "text": "PICK UP BOOK"
+                  "text": "ЗАБЕРИ КНИГУ"
                 }
               ],
               "trackingInfo": {
@@ -11868,12 +11868,12 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-FamilyPhotoChoice",
                   "sg": "FamilyPhotoChoice",
-                  "text": "PICK UP FAMILY PHOTO"
+                  "text": "ЗАБЕРИ СЕМЕЙНУЮ ФОТОГРАФИЮ"
                 },
                 {
                   "id": "nsg-BookChoice",
                   "sg": "BookChoice",
-                  "text": "PICK UP BOOK"
+                  "text": "ЗАБЕРИ КНИГУ"
                 }
               ],
               "trackingInfo": {
@@ -11914,7 +11914,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "THE NETFLIX 'N' LOGO"
+                  "text": "ЛОГОТИП NETFLIX 'N'"
                 },
                 {
                   "id": "nsg-WhiteBearChoice",
@@ -11927,7 +11927,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -11959,13 +11959,13 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-2BChoice",
                   "sg": "2BChoice",
-                  "text": "YES"
+                  "text": "ДА"
                 },
                 {
                   "id": "2GA",
                   "segmentId": "2GA",
                   "startTimeMs": 7894920,
-                  "text": "NO"
+                  "text": "НЕТ"
                 }
               ],
               "trackingInfo": {
@@ -12061,7 +12061,7 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-ThrowThemChoice",
                   "sg": "ThrowThemChoice",
-                  "text": "THROW THEM AWAY",
+                  "text": "ВЫБРОСИТЬ ИХ",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -12074,7 +12074,7 @@ bandersnatch={
                 {
                   "id": "nsg-FlushThemChoice3X",
                   "sg": "FlushThemChoice3X",
-                  "text": "FLUSH THEM",
+                  "text": "СПУСТИ В УНИТАЗ",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -12179,7 +12179,7 @@ bandersnatch={
                   "id": "8B_Variant2",
                   "segmentId": "8B",
                   "startTimeMs": 1738880,
-                  "text": "TAKE THEM",
+                  "text": "ВЫПЕЙ ИХ",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -12192,7 +12192,7 @@ bandersnatch={
                 {
                   "id": "nsg-FlushThemChoice3X",
                   "sg": "FlushThemChoice3X",
-                  "text": "FLUSH THEM",
+                  "text": "СПУСТИ В УНИТАЗ",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -12398,7 +12398,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -12430,12 +12430,12 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-FamilyPhotoChoice",
                   "sg": "FamilyPhotoChoice",
-                  "text": "PICK UP FAMILY PHOTO"
+                  "text": "ЗАБЕРИ СЕМЕЙНУЮ ФОТОГРАФИЮ"
                 },
                 {
                   "id": "nsg-BookChoice",
                   "sg": "BookChoice",
-                  "text": "PICK UP BOOK"
+                  "text": "ЗАБЕРИ КНИГУ"
                 }
               ],
               "trackingInfo": {
@@ -12468,7 +12468,7 @@ bandersnatch={
                   "id": "3Y",
                   "segmentId": "3Y",
                   "startTimeMs": 2109600,
-                  "text": "DESTROY COMPUTER",
+                  "text": "РАЗБЕЙ КОМПЬЮТЕР",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -12482,7 +12482,7 @@ bandersnatch={
                   "id": "3Z",
                   "segmentId": "3Z",
                   "startTimeMs": 2193720,
-                  "text": "HIT DESK"
+                  "text": "УДАРЬ ПО СТОЛУ"
                 }
               ],
               "trackingInfo": {
@@ -12515,7 +12515,7 @@ bandersnatch={
                   "id": "8L",
                   "segmentId": "8L",
                   "startTimeMs": 3253520,
-                  "text": "STEFAN",
+                  "text": "СТЕФАН",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -12530,7 +12530,7 @@ bandersnatch={
                   "id": "3Q",
                   "segmentId": "3Q",
                   "startTimeMs": 3390680,
-                  "text": "COLIN"
+                  "text": "КОЛИН"
                 }
               ],
               "trackingInfo": {
@@ -12633,7 +12633,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "THE NETFLIX 'N' LOGO"
+                  "text": "ЛОГОТИП NETFLIX 'N'"
                 },
                 {
                   "id": "nsg-WhiteBearChoice",
@@ -12646,7 +12646,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -12702,12 +12702,12 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-ThrowTeaChoice",
                     "sg": "ThrowTeaChoice",
-                    "text": "THROW TEA OVER COMPUTER"
+                    "text": "ВЫЛЕЙ ЧАЙ НА КОМПЬЮТЕР"
                   },
                   {
                     "id": "nsg-DestroyComputerChoice",
                     "sg": "DestroyComputerChoice",
-                    "text": "DESTROY COMPUTER"
+                    "text": "РАЗБЕЙ КОМПЬЮТЕР"
                   }
                 ],
                 "trackingInfo": {
@@ -12776,12 +12776,12 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-ThrowTeaChoice",
                     "sg": "ThrowTeaChoice",
-                    "text": "THROW TEA OVER COMPUTER"
+                    "text": "ВЫЛЕЙ ЧАЙ НА КОМПЬЮТЕР"
                   },
                   {
                     "id": "nsg-DestroyComputerChoice",
                     "sg": "DestroyComputerChoice",
-                    "text": "DESTROY COMPUTER"
+                    "text": "РАЗБЕЙ КОМПЬЮТЕР"
                   }
                 ],
                 "trackingInfo": {
@@ -12814,12 +12814,12 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-FamilyPhotoChoice",
                   "sg": "FamilyPhotoChoice",
-                  "text": "PICK UP FAMILY PHOTO"
+                  "text": "ЗАБЕРИ СЕМЕЙНУЮ ФОТОГРАФИЮ"
                 },
                 {
                   "id": "nsg-BookChoice",
                   "sg": "BookChoice",
-                  "text": "PICK UP BOOK"
+                  "text": "ЗАБЕРИ КНИГУ"
                 }
               ],
               "trackingInfo": {
@@ -12887,12 +12887,12 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-ThrowTeaChoice",
                     "sg": "ThrowTeaChoice",
-                    "text": "THROW TEA OVER COMPUTER"
+                    "text": "ВЫЛЕЙ ЧАЙ НА КОМПЬЮТЕР"
                   },
                   {
                     "id": "nsg-DestroyComputerChoice",
                     "sg": "DestroyComputerChoice",
-                    "text": "DESTROY COMPUTER"
+                    "text": "РАЗБЕЙ КОМПЬЮТЕР"
                   }
                 ],
                 "trackingInfo": {
@@ -12950,7 +12950,7 @@ bandersnatch={
                     "id": "3Y",
                     "segmentId": "3Y",
                     "startTimeMs": 2109600,
-                    "text": "DESTROY COMPUTER",
+                    "text": "РАЗБЕЙ КОМПЬЮТЕР",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -12964,7 +12964,7 @@ bandersnatch={
                     "id": "3Z",
                     "segmentId": "3Z",
                     "startTimeMs": 2193720,
-                    "text": "HIT DESK"
+                    "text": "УДАРЬ ПО СТОЛУ"
                   }
                 ],
                 "trackingInfo": {
@@ -13021,12 +13021,12 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-ThrowTeaChoice",
                     "sg": "ThrowTeaChoice",
-                    "text": "THROW TEA OVER COMPUTER"
+                    "text": "ВЫЛЕЙ ЧАЙ НА КОМПЬЮТЕР"
                   },
                   {
                     "id": "nsg-DestroyComputerChoice",
                     "sg": "DestroyComputerChoice",
-                    "text": "DESTROY COMPUTER"
+                    "text": "РАЗБЕЙ КОМПЬЮТЕР"
                   }
                 ],
                 "trackingInfo": {
@@ -13068,7 +13068,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "THE NETFLIX 'N' LOGO"
+                  "text": "ЛОГОТИП NETFLIX 'N'"
                 },
                 {
                   "id": "nsg-WhiteBearChoice",
@@ -13081,7 +13081,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -13113,12 +13113,12 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-2BChoice",
                   "sg": "2BChoice",
-                  "text": "YES"
+                  "text": "ДА"
                 },
                 {
                   "id": "nsg-2GChoice",
                   "sg": "2GChoice",
-                  "text": "NO"
+                  "text": "НЕТ"
                 }
               ],
               "trackingInfo": {
@@ -13152,13 +13152,13 @@ bandersnatch={
                   "id": "R6",
                   "segmentId": "R6",
                   "startTimeMs": 4901120,
-                  "text": "'PROGRAM & CONTROL'"
+                  "text": "'ПРОГРАММА И КОНТРОЛЬ'"
                 },
                 {
                   "id": "0cr1",
                   "segmentId": "0cr1",
                   "startTimeMs": 18595160,
-                  "text": "EXIT TO CREDITS",
+                  "text": "ВЫХОД В ТИТРЫ",
                   "optionType": "credits"
                 }
               ],
@@ -13191,13 +13191,13 @@ bandersnatch={
                   "id": "R6",
                   "segmentId": "R6",
                   "startTimeMs": 4901120,
-                  "text": "'PROGRAM & CONTROL'"
+                  "text": "'ПРОГРАММА И КОНТРОЛЬ'"
                 },
                 {
                   "id": "0cr1",
                   "segmentId": "0cr1",
                   "startTimeMs": 18595160,
-                  "text": "EXIT TO CREDITS",
+                  "text": "ВЫХОД В ТИТРЫ",
                   "optionType": "credits"
                 }
               ],
@@ -13249,7 +13249,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -13282,7 +13282,7 @@ bandersnatch={
                   "id": "3B",
                   "segmentId": "3B",
                   "startTimeMs": 1415040,
-                  "text": "THROW TEA OVER COMPUTER",
+                  "text": "ВЫЛЕЙ ЧАЙ НА КОМПЬЮТЕР",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -13297,7 +13297,7 @@ bandersnatch={
                   "id": "3C",
                   "segmentId": "3C",
                   "startTimeMs": 1486960,
-                  "text": "SHOUT AT DAD",
+                  "text": "НАОРИ НА ОТЦА",
                   "impressionData": {
                     "type": "userState",
                     "data": {
@@ -13346,7 +13346,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "THE NETFLIX 'N' LOGO"
+                  "text": "ЛОГОТИП NETFLIX 'N'"
                 },
                 {
                   "id": "nsg-WhiteBearChoice",
@@ -13359,7 +13359,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -13416,7 +13416,7 @@ bandersnatch={
                     "id": "3Y",
                     "segmentId": "3Y",
                     "startTimeMs": 2109600,
-                    "text": "DESTROY COMPUTER",
+                    "text": "РАЗБЕЙ КОМПЬЮТЕР",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -13430,7 +13430,7 @@ bandersnatch={
                     "id": "3Z",
                     "segmentId": "3Z",
                     "startTimeMs": 2193720,
-                    "text": "HIT DESK"
+                    "text": "УДАРЬ ПО СТОЛУ"
                   }
                 ],
                 "trackingInfo": {
@@ -13484,7 +13484,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -13540,12 +13540,12 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-ThrowTeaChoice",
                     "sg": "ThrowTeaChoice",
-                    "text": "THROW TEA OVER COMPUTER"
+                    "text": "ВЫЛЕЙ ЧАЙ НА КОМПЬЮТЕР"
                   },
                   {
                     "id": "nsg-DestroyComputerChoice",
                     "sg": "DestroyComputerChoice",
-                    "text": "DESTROY COMPUTER"
+                    "text": "РАЗБЕЙ КОМПЬЮТЕР"
                   }
                 ],
                 "trackingInfo": {
@@ -13602,12 +13602,12 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-ThrowTeaChoice",
                     "sg": "ThrowTeaChoice",
-                    "text": "THROW TEA OVER COMPUTER"
+                    "text": "ВЫЛЕЙ ЧАЙ НА КОМПЬЮТЕР"
                   },
                   {
                     "id": "nsg-DestroyComputerChoice",
                     "sg": "DestroyComputerChoice",
-                    "text": "DESTROY COMPUTER"
+                    "text": "РАЗБЕЙ КОМПЬЮТЕР"
                   }
                 ],
                 "trackingInfo": {
@@ -13664,12 +13664,12 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-8K-0",
                     "sg": "pearlThrowTea",
-                    "text": "THROW TEA OVER COMPUTER"
+                    "text": "ВЫЛЕЙ ЧАЙ НА КОМПЬЮТЕР"
                   },
                   {
                     "id": "nsg-8K-1",
                     "sg": "pearlDestroyComputer",
-                    "text": "DESTROY COMPUTER"
+                    "text": "РАЗБЕЙ КОМПЬЮТЕР"
                   }
                 ],
                 "trackingInfo": {
@@ -13726,12 +13726,12 @@ bandersnatch={
                 "choices": [{
                     "id": "nsg-ThrowTeaChoice",
                     "sg": "ThrowTeaChoice",
-                    "text": "THROW TEA OVER COMPUTER"
+                    "text": "ВЫЛЕЙ ЧАЙ НА КОМПЬЮТЕР"
                   },
                   {
                     "id": "nsg-DestroyComputerChoice",
                     "sg": "DestroyComputerChoice",
-                    "text": "DESTROY COMPUTER"
+                    "text": "РАЗБЕЙ КОМПЬЮТЕР"
                   }
                 ],
                 "trackingInfo": {
@@ -13813,7 +13813,7 @@ bandersnatch={
                     "id": "8JA",
                     "segmentId": "8JA",
                     "startTimeMs": 4791120,
-                    "text": "YES",
+                    "text": "ДА",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -13827,7 +13827,7 @@ bandersnatch={
                   {
                     "id": "nsg-8J-1",
                     "sg": "8J-1",
-                    "text": "NO",
+                    "text": "НЕТ",
                     "impressionData": {
                       "type": "userState",
                       "data": {
@@ -13877,7 +13877,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "THE NETFLIX 'N' LOGO"
+                  "text": "ЛОГОТИП NETFLIX 'N'"
                 },
                 {
                   "id": "nsg-WhiteBearChoice",
@@ -13890,7 +13890,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -13943,7 +13943,7 @@ bandersnatch={
                       "backgroundRepeat": "no-repeat"
                     }
                   },
-                  "text": "'WHITE BEAR' GLYPH"
+                  "text": "ГЛИФ БЕЛЫЙ МЕДВЕДЬ"
                 }
               ],
               "trackingInfo": {
@@ -13975,12 +13975,12 @@ bandersnatch={
               "choices": [{
                   "id": "nsg-5V-0",
                   "sg": "5V-0",
-                  "text": "BURY BODY"
+                  "text": "ЗАКОПАТЬ ТЕЛО"
                 },
                 {
                   "id": "nsg-5V-1",
                   "sg": "5V-1",
-                  "text": "CHOP UP BODY"
+                  "text": "РАСЧЛЕНИТЬ ТЕЛО"
                 }
               ],
               "trackingInfo": {
