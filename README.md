@@ -10,6 +10,9 @@ The only thing you need is 5hours video file of `Bandersnatch` episode, Drag & d
 
 ## Screenshot
 
+- Переведены варианты выбора
+- ![Screenshot](screenshot/translation-of-the-choice-of-options.png)
+
 - full screen mode
 
 ![Screenshot](screenshot/full-screen.png)
