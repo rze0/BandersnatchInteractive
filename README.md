@@ -36,4 +36,6 @@ The only thing you need is 5hours video file of `Bandersnatch` episode, Drag & d
 
 ## Credit
 
+- my fork is based on [mehotkhan](https://github.com/mehotkhan/BandersnatchInteractive)
 - based on [joric work](https://github.com/joric/bandersnatch)
+
