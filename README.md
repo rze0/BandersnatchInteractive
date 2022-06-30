@@ -21,7 +21,7 @@ The only thing you need is 5hours video file of `Bandersnatch` episode, Drag & d
 
 - Only work on google chrome (Doesn't work on Firefox; codec problems)
 - Download `Bandersnatch` video file (`5:12:14`)
-- Drag it on white box on [page](https://mehotkhan.github.io/BandersnatchInteractive/) :)
+- Drag it on white box on [page](https://rze0.github.io/BandersnatchInteractive/) :)
 - `Persian`, `English`, `Arabic`, `Spanish`, `Hebrew`, `Portuguese`, `Greek`, `Turkish`, `Polish`, `Indonesian`, `Russian` , `French` , `Hungarian` , `Korean` subtitle available, If you want add another language subtitle, tell me.
 - to change subtitle : right click on video , enable show controls , after that . on bottom,right you see menu icon (3 vertical dot) then you can subtitle section
 - Note : after change subtitle , disable show controls ,if dont disable it on full screen video,you cant see option selector
