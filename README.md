@@ -2,11 +2,11 @@
 
 With this online(html) video player you can watch `Bandersnatch` episode of `Black Mirror` **interactively**.
 
-[Live demo](https://mehotkhan.github.io/BandersnatchInteractive/)
+[Live demo](https://rze0.github.io/BandersnatchInteractive/)
 
 ## How to use
 
-The only thing you need is 5hours video file of `Bandersnatch` episode, Drag & drop the file in [this](https://mehotkhan.github.io/BandersnatchInteractive/) page and enjoy!
+The only thing you need is 5hours video file of `Bandersnatch` episode, Drag & drop the file in [this](https://rze0.github.io/BandersnatchInteractive/) page and enjoy!
 
 ## Screenshot
 
